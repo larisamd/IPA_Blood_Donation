@@ -1,0 +1,1 @@
+ /Users/user/Desktop/vsc_proj/app_larisa/.dart_tool/flutter_build/53852a442c10d30f99c41362ff391241/native_assets.yaml: 
