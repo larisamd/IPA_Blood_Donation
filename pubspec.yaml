@@ -1,0 +1,56 @@
+name: larisa_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_auth: ^4.17.8
+  firebase_core: ^2.27.0
+  cloud_firestore: ^4.15.9
+  shared_preferences: ^2.2.2
+  firebase_messaging: ^14.7.20
+  intl: ^0.17.0
+  date_time_picker: ^2.1.0
+  table_calendar: ^3.0.8
+  mockito: ^5.4.4
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_native_splash: ^2.3.10
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons: 
+  image_path: "assets/icon.png"
+  adaptive_icon_background: "assets/background.png"
+  adaptive_icon_foreground: "assets/icon.png"
+  android: true
+  ios: true
+  remove_alpha_ios: true
+
+flutter_native_splash:
+
+  android: true
+  ios: true
+  web: false 
+
+  
+  color: "#FF0000"
+  image: assets/drop.png
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/drop.png
+    - assets/nonotif.png
+    - assets/nobook.png
+    - assets/home.png
+
+  #   - images/a_dot_ham.jpeg
