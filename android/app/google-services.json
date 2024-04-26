@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171887390074",
+    "project_id": "app-larisa",
+    "storage_bucket": "app-larisa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171887390074:android:ab47535eb77ddc72a47ac3",
+        "android_client_info": {
+          "package_name": "com.example.app_larisa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3efT1F2hGxphRZu3CBCtnMuBrT4HPIBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
