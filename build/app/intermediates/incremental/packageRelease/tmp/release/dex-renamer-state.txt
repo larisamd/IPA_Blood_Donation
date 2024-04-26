@@ -1,0 +1,4 @@
+#Sat Apr 27 00:10:31 AST 2024
+base.0=/Users/user/Desktop/vsc_proj/app_larisa/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
