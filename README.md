@@ -78,13 +78,13 @@ The application makes the blood donation process easier and faster by connecting
 Find the link to see the app demo: https://drive.google.com/drive/folders/1WjDWMCBnMHhEs_TiRu4FoTpPeX4v09HJ?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto
 
 <div align="center">
-  <img width="180" alt="Blood donation app screenshot 1" src="https://github.com/user-attachments/assets/918c9ee3-93c5-4394-97e0-1f895870760b" />
-  <img width="180" alt="Blood donation app screenshot 2" src="https://github.com/user-attachments/assets/fe626b8c-408e-4c0d-a160-f4e7308d59dc" />
-  <img width="180" alt="Blood donation app screenshot 3" src="https://github.com/user-attachments/assets/d1792e77-8c97-4cdb-bf15-da8f8aba8241" />
+  <img width="180" loading="lazy" decoding="async" alt="Blood donation app screenshot 1" src="https://github.com/user-attachments/assets/918c9ee3-93c5-4394-97e0-1f895870760b" />
+  <img width="180" loading="lazy" decoding="async" alt="Blood donation app screenshot 2" src="https://github.com/user-attachments/assets/fe626b8c-408e-4c0d-a160-f4e7308d59dc" />
+  <img width="180" loading="lazy" decoding="async" alt="Blood donation app screenshot 3" src="https://github.com/user-attachments/assets/d1792e77-8c97-4cdb-bf15-da8f8aba8241" />
 </div>
 
 <div align="center">
-  <img width="180" alt="Blood donation app screenshot 4" src="https://github.com/user-attachments/assets/73b31b56-4596-43df-9221-ede0dc02fd37" />
-  <img width="180" alt="Blood donation app screenshot 5" src="https://github.com/user-attachments/assets/1389cabf-ad50-42f2-8c6d-9f27a708e071" />
-  <img width="180" alt="Blood donation app screenshot 6" src="https://github.com/user-attachments/assets/8d82b61b-389f-4a27-8088-35b80eead1a2" />
+  <img width="180" loading="lazy" decoding="async" alt="Blood donation app screenshot 4" src="https://github.com/user-attachments/assets/73b31b56-4596-43df-9221-ede0dc02fd37" />
+  <img width="180" loading="lazy" decoding="async" alt="Blood donation app screenshot 5" src="https://github.com/user-attachments/assets/1389cabf-ad50-42f2-8c6d-9f27a708e071" />
+  <img width="180" loading="lazy" decoding="async" alt="Blood donation app screenshot 6" src="https://github.com/user-attachments/assets/8d82b61b-389f-4a27-8088-35b80eead1a2" />
 </div>
