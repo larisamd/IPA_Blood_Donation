@@ -72,3 +72,7 @@ The app allows users to:
 ## Purpose
 
 The application makes the blood donation process easier and faster by connecting donors and blood banks in real time, reducing manual coordination and improving access to urgent blood needs.
+
+## Demo
+
+Find the link to see the app demo: https://drive.google.com/drive/folders/1WjDWMCBnMHhEs_TiRu4FoTpPeX4v09HJ?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto
