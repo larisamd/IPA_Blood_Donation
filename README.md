@@ -76,3 +76,15 @@ The application makes the blood donation process easier and faster by connecting
 ## Demo
 
 Find the link to see the app demo: https://drive.google.com/drive/folders/1WjDWMCBnMHhEs_TiRu4FoTpPeX4v09HJ?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto
+<img width="296" height="647" alt="image" src="https://github.com/user-attachments/assets/918c9ee3-93c5-4394-97e0-1f895870760b" />
+<img width="493" height="1075" alt="image" src="https://github.com/user-attachments/assets/fe626b8c-408e-4c0d-a160-f4e7308d59dc" />
+<img width="490" height="1076" alt="image" src="https://github.com/user-attachments/assets/d1792e77-8c97-4cdb-bf15-da8f8aba8241" />
+<img width="495" height="1076" alt="image" src="https://github.com/user-attachments/assets/73b31b56-4596-43df-9221-ede0dc02fd37" />
+<img width="307" height="636" alt="image" src="https://github.com/user-attachments/assets/1389cabf-ad50-42f2-8c6d-9f27a708e071" />
+<img width="495" height="1078" alt="image" src="https://github.com/user-attachments/assets/8d82b61b-389f-4a27-8088-35b80eead1a2" />
+
+
+
+
+
+
